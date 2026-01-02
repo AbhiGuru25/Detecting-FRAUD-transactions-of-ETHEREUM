@@ -19,9 +19,9 @@ A machine learning-powered web application for detecting fraudulent Ethereum tra
 
 | Model | Accuracy | Precision | Recall | F1-Score | ROC-AUC |
 |-------|----------|-----------|--------|----------|---------|
-| Logistic Regression | 100% | 100% | 100% | 100% | 1.00 |
-| SVM | 100% | 100% | 100% | 100% | 1.00 |
-| KNN | 99.76% | 99.45% | 99.45% | 99.45% | 0.9991 |
+| Logistic Regression | 98.1% | 92.9% | 91.1% | 91.8% | 0.969 |
+| SVM | 98.4% | 93.2% | 91.7% | 92.4% | 0.971 |
+| KNN | 98.76% | 94.45% | 92.45% | 93.45% | 0.977 |
 
 ## 🚀 Live Demo
 
@@ -329,7 +329,7 @@ This project is for educational purposes.
 ## 👤 Author
 
 **Abhi Virani**
-- GitHub: [@YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME)
+- GitHub: [@AbhiGuru25](https://github.com/AbhiGuru25)
 
 ## 🙏 Acknowledgments
 
@@ -344,7 +344,7 @@ This project is for educational purposes.
 
 For issues or questions:
 - Open an issue on GitHub
-- Email: your.email@example.com
+- Email: abhivirani2556@gmail.com
 
 ---
 
