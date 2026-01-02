@@ -114,7 +114,7 @@ git status
 git commit -m "Initial commit: Flask Ethereum Fraud Detection App"
 
 # Create GitHub repo first (see Step 4), then:
-git remote add origin https://github.com/YOUR_USERNAME/ethereum-fraud-detection.git
+git remote add origin https://github.com/AbhiGuru25/ethereum-fraud-detection.git
 
 # Push to GitHub
 git branch -M main
@@ -347,15 +347,6 @@ Your deployment is successful when:
 
 ---
 
-## 📞 Need Help?
-
-- Check deployment logs for errors
-- Verify all files pushed: `git ls-files`
-- Test locally first: `python webapp/app.py`
-- Ensure Python version matches (3.8+)
-
----
-
 ## 🔗 Quick Links
 
 - **Render**: [render.com](https://render.com)
@@ -366,5 +357,3 @@ Your deployment is successful when:
 ---
 
 **Good luck with your deployment! 🚀**
-
-**Your app will be live at**: `https://your-app-name.platform.com`
