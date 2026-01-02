@@ -25,7 +25,7 @@ A machine learning-powered web application for detecting fraudulent Ethereum tra
 
 ## 🚀 Live Demo
 
-**Deployed on**: [Your deployment URL]
+**Deployed on**: https://detecting-fraud-transactions-of-ethereum.onrender.com/
 
 ## 🛠️ Installation & Local Setup
 
